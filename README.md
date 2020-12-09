@@ -1,5 +1,7 @@
 # note-app-project-with-spring-hibernate-jsp-maven-ajax-restful-json
  written note storage application
+ 
+ I used a ready-made template.
 
 Login Page
 ![loginEkrani](https://user-images.githubusercontent.com/41294174/101613731-2a1df100-3a1d-11eb-9976-de54772a6c18.png)
